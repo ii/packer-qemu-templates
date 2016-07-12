@@ -55,6 +55,12 @@
               "scripts/firewall-open-rdp.bat"
 
           ]
+      },
+      {
+          "type": "powershell",
+          "scripts": [
+              "scripts/vmtools.ps1"
+          ]
       }
     ]
 }
